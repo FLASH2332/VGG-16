@@ -10,8 +10,13 @@ This repository contains a VGG-16 based image classification workflow trained on
 ## Project Overview
 
 - Model: VGG-16 transfer learning for flower classification
-- Notebook: `VGG-16-50.ipynb` (50-epoch training run)
+- Notebook: VGG-16-50.ipynb (50-epoch training run)
 - Goal: classify flower images from segmented Oxford Flower data
+
+## Kaggle Model
+
+- Kaggle model page: https://www.kaggle.com/models/jd2005/vgg-16-1 , https://www.kaggle.com/models/jd2005/vgg-16-2
+- Short model summary: Trained VGG-16 transfer learning model for Oxford Flower image classification using segmented input images.
 
 ## Setup
 
